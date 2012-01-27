@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Golf Handicapper/Package1.pkgxml" ctype="Workbench">
+    <Files>
+      <File FileName="Golf Handicapper/Package1.pkgxml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Golf Handicapper" expanded="True">
+            <Node name="Properties" expanded="True">
+              <Node name="Settings.settings" expanded="True" />
+            </Node>
+            <Node name="Package1.pkgxml" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="Golf Handicapper" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Golf_Handicapper" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

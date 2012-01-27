@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec mono "/home/mike/lib/Golf Handicapper/Golf Handicapper.exe" "$@"

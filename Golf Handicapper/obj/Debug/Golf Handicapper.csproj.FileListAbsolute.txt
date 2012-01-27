@@ -1,0 +1,16 @@
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\ResolveAssemblyReference.cache
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Form1.resources
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Properties.Resources.resources
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.csproj.GenerateResource.Cache
+G:\School\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.exe
+G:\School\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.pdb
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.exe
+G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.pdb
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.exe
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.pdb
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.exe
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.pdb
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Form1.resources
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Properties.Resources.resources
+G:\Documents\Coding\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.csproj.GenerateResource.Cache

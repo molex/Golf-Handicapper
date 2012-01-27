@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Golf Handicapper</name>
+  <shortname>golfhandicapper</shortname>
+  <summary>Golf Hanicapper</summary>
+  <version>1.0</version>
+  <url />
+  <license>GPLv3</license>
+  <type>Winexe</type>
+  <description>Allows user to input golf scores, Course Ratings, and Course Slope to determine their handicap.</description>
+  <createdesktopfile>true</createdesktopfile>
+  <icon>G:\Golf-Club-Green-icon.png</icon>
+  <categories>Game</categories>
+  <group>Amusements/Games/Other</group>
+  <needsprepopulate>false</needsprepopulate>
+  <dependencies />
+  <provides />
+  <filetree name="Application Root" writable="false">
+    <directories>
+      <directory name="Golf Handicapper" writable="false">
+        <directories>
+          <directory name="bin" writable="false">
+            <directories>
+              <directory name="Debug" writable="false">
+                <directories />
+                <files>
+                  <file name="Golf Handicapper.exe" source="G:\School\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.exe" startup="true" writeable="false" />
+                  <file name="Golf Handicapper.pdb" source="G:\School\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.pdb" startup="false" writeable="false" />
+                  <file name="Golf Handicapper.vshost.exe" source="G:\School\C#\Golf Handicapper\Golf Handicapper\bin\Debug\Golf Handicapper.vshost.exe" startup="false" writeable="false" />
+                </files>
+              </directory>
+            </directories>
+            <files />
+          </directory>
+          <directory name="obj" writable="false">
+            <directories>
+              <directory name="Debug" writable="false">
+                <directories>
+                  <directory name="Refactor" writable="false">
+                    <directories />
+                    <files />
+                  </directory>
+                  <directory name="TempPE" writable="false">
+                    <directories />
+                    <files />
+                  </directory>
+                </directories>
+                <files>
+                  <file name="Golf Handicapper.csproj.FileListAbsolute.txt" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.csproj.FileListAbsolute.txt" startup="false" writeable="false" />
+                  <file name="Golf Handicapper.csproj.GenerateResource.Cache" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.csproj.GenerateResource.Cache" startup="false" writeable="false" />
+                  <file name="Golf Handicapper.exe" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.exe" startup="false" writeable="false" />
+                  <file name="Golf Handicapper.pdb" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf Handicapper.pdb" startup="false" writeable="false" />
+                  <file name="Golf_Handicapper.Form1.resources" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Form1.resources" startup="false" writeable="false" />
+                  <file name="Golf_Handicapper.Properties.Resources.resources" source="G:\School\C#\Golf Handicapper\Golf Handicapper\obj\Debug\Golf_Handicapper.Properties.Resources.resources" startup="false" writeable="false" />
+                </files>
+              </directory>
+            </directories>
+            <files />
+          </directory>
+          <directory name="Properties" writable="false">
+            <directories />
+            <files>
+              <file name="AssemblyInfo.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Properties\AssemblyInfo.cs" startup="false" writeable="false" />
+              <file name="Resources.Designer.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Properties\Resources.Designer.cs" startup="false" writeable="false" />
+              <file name="Resources.resx" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Properties\Resources.resx" startup="false" writeable="false" />
+              <file name="Settings.Designer.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Properties\Settings.Designer.cs" startup="false" writeable="false" />
+              <file name="Settings.settings" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Properties\Settings.settings" startup="false" writeable="false" />
+            </files>
+          </directory>
+        </directories>
+        <files>
+          <file name="Form1.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Form1.cs" startup="false" writeable="false" />
+          <file name="Form1.Designer.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Form1.Designer.cs" startup="false" writeable="false" />
+          <file name="Form1.resx" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Form1.resx" startup="false" writeable="false" />
+          <file name="Golf Handicapper.csproj" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Golf Handicapper.csproj" startup="false" writeable="false" />
+          <file name="Program.cs" source="G:\School\C#\Golf Handicapper\Golf Handicapper\Program.cs" startup="false" writeable="false" />
+        </files>
+      </directory>
+    </directories>
+    <files>
+      <file name="Golf Handicapper.sln" source="G:\School\C#\Golf Handicapper\Golf Handicapper.sln" startup="false" writeable="false" />
+      <file name="Golf Handicapper.suo" source="G:\School\C#\Golf Handicapper\Golf Handicapper.suo" startup="false" writeable="false" />
+    </files>
+  </filetree>
+  <autogeneraterelease>true</autogeneraterelease>
+  <release />
+  <preinstallscript />
+  <postinstallscript />
+  <preuninstallscript />
+  <postuninstallscript />
+  <useiomap>true</useiomap>
+  <minimummono>2.4.2</minimummono>
+  <leaveonserver>false</leaveonserver>
+  <serverlocation />
+  <targetplatform>monorpm</targetplatform>
+</package>
